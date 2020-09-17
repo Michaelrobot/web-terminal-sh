@@ -5,4 +5,6 @@ cd ttyd && mkdir build && cd build
 cmake ..
 make
 sudo make install
+sudo cp ttyd.service /etc/systemd/system/ttyd.service
+sudo systemctl daemon-reload
 cd

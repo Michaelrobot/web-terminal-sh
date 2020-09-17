@@ -8,4 +8,5 @@
     ```
     
 ## 參考文章:
-https://github.com/tsl0922/ttyd/blob/master/README.md
+- [原始碼](https://github.com/tsl0922/ttyd/blob/master/README.md)
+- [教學](https://blog.gtwang.org/linux/ttyd-share-terminal-over-the-web/)

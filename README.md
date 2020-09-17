@@ -6,6 +6,11 @@
     git clone https://github.com/Michaelrobot/web-terminal-sh.git
     source web-terminal-sh/web_terminal.sh
     ```
+## 執行
+- 環境 (debian/ubuntu):
+    ```bash
+    sudo systemctl start ttyd
+    ```
     
 ## 參考文章:
 - [原始碼](https://github.com/tsl0922/ttyd/blob/master/README.md)
